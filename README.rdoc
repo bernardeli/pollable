@@ -1,0 +1,8 @@
+= Pollable
+
+This project rocks and uses MIT-LICENSE.
+
+This app is a test for using as a mountable engine in Rails.
+
+More details can be found here: http://piotrsarnacki.com/2010/09/14/mountable-engines/
+
